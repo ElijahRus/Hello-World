@@ -1,2 +1,4 @@
 # Hello-World
-My first repository
+Hey Everyone
+I Like coding!
+Coding is Cool!
